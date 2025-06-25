@@ -3,21 +3,45 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/oMacaxeira/oMacaxeira/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  *“A persistência realiza o impossível.”*
 </div>
 
 ---
 
-### 📊 Estatísticas da Minha Atividade (WakaTime)
+### 🚀 Sobre Mim
+
+Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e conhecimentos. Atualmente estou focado em... **(Diga aqui no que você está a trabalhar ou a estudar)**.
+
+- 👯 Procuro colaborar em projetos open-source que... **(Complete a frase)**
+- 📫 Como me encontrar: **seu.email@exemplo.com**
+- ⚡ Curiosidade: Acredito que a melhor interface é aquela que não se percebe.
 
 ---
 
-### 🔥 Minhas Estatísticas do GitHub
+### 💻 Minhas Ferramentas e Tecnologias
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omacaxeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omacaxeira&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,fastapi,postgres,mongodb,docker,git" />
+  </a>
 </p>
+
+---
+
+### 📊 Minha Atividade (WakaTime)
+
+---
+
+### 🔥 Estatísticas e "Snake" de Contribuições
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=omacaxeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omacaxeira&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/oMacaxeira/oMacaxeira/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
 
 ---
 
@@ -29,5 +53,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omacaxeira&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=omacaxeira&label=VISUALIZAÇÕES+DO+PERFIL&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
