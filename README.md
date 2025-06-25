@@ -51,10 +51,10 @@
 
 ---
 
-### 🐍 "Snake" de Contribuições
+### 🐍 "Snake" de Contribuições (Tema Escuro)
 
 <p align="center">
-  <img src="https://github.com/omacaxeira/omacaxeira/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/oMacaxeira/oMacaxeira/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
 ---
