@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omacaxeira&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="omacaxeira" />
-</p>
-
-<div align="center">
-  *“A persistência realiza o impossível.”*
-</div>
-
----
-
 ### 🚀 Sobre Mim
 
 Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e conhecimentos. Atualmente estou focado em... **(Diga aqui no que você está a trabalhar ou a estudar)**.
@@ -25,6 +15,16 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,fastapi,postgres,mongodb,docker,git" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omacaxeira&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="omacaxeira" />
+</p>
+
+<div align="center">
+  *“A persistência realiza o impossível.”*
+</div>
 
 ---
 
