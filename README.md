@@ -18,6 +18,8 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 
 ---
 
+### 🏆 Conquistas
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=omacaxeira&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="omacaxeira" />
 </p>
