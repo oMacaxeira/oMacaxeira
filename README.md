@@ -1,6 +1,6 @@
 ### 🚀 Sobre Mim
 
-Não tem muito que dizer, aqui é onde eu transformo café em código. Acredito que a melhor interface é aquela que não se percebe.
+Não tem muito o que dizer, aqui é onde eu transformo café em código. Acredito que a melhor interface é aquela que não se percebe.
 
 - 📫 Como me encontrar: pedrolucas17473781@gmail.com
 
@@ -48,7 +48,7 @@ Não tem muito que dizer, aqui é onde eu transformo café em código. Acredito 
 ### 🌐 Conecte-se Comigo
 
 <p align="center">
-<a href="https://linkedin.com/in/SEU-USUARIO-AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedro-lucas-alves-89496135b"?trk=contact-info target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto: pedrolucas17473781@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
