@@ -1,41 +1,67 @@
-# Olá, eu sou o Macaxeira! 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1JxM/giphy.gif" width="100"/>
+</div>
 
-Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos conhecimentos.
+<h1 align="center">
+  Olá, eu sou o Macaxeira!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
----
-
-### 👨‍💻 Sobre Mim
-
-- 🔭 Atualmente estou trabalhando em... *(diga no que você está trabalhando)*
-- 🌱 Estou aprendendo... *(mencione alguma tecnologia que está estudando)*
-- 👯 Procuro colaborar em... *(se estiver aberto a colaborações, diga em que tipo de projeto)*
-- 🤔 Estou procurando ajuda com... *(se precisar de ajuda com algo, este é o lugar)*
-- 💬 Me pergunte sobre... *(assuntos que você domina ou gosta de falar)*
-- 📫 Como me encontrar: *(coloque seu e-mail ou outra forma de contato)*
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: *(algo interessante sobre você)*
+<p align="center">
+  Sou um desenvolvedor apaixonado por transformar café em código e explorar o universo da tecnologia.
+</p>
 
 ---
 
-### 🛠️ Habilidades
+### 🚀 Sobre Mim
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 Estatísticas do GitHub
-
-[![Estatísticas do GitHub de oMacaxeira](https://github-readme-stats.vercel.app/api?username=omacaxeira&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=omacaxeira&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 Atualmente estou focado em... **(Seu projeto atual aqui)**
+- 🌱 Aprendendo sobre **React Native** e **Inteligência Artificial**.
+- 👯 Buscando colaborar em projetos **open-source** que impactem a comunidade.
+- 🤔 Tenho interesse em oportunidades de **Desenvolvimento Web e Mobile**.
+- 📫 Contate-me: **seu.email@exemplo.com**
+- ⚡ Curiosidade: Acredito que a melhor interface é aquela que não se percebe.
 
 ---
 
-### 🌐 Conecte-se comigo
+### 💻 Minhas Ferramentas e Tecnologias
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-DO-LINKEDIN/)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SEU-USUARIO-DO-TWITTER)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,fastapi,postgres,mongodb,docker,git" />
+  </a>
+</p>
+
+---
+
+### 🏆 Troféus do GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omacaxeira&theme=dracula&row=1&column=7" alt="omacaxeira" />
+</p>
+
+---
+
+### 🔥 Minhas Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omacaxeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omacaxeira&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+### 🐍 "Snake" de Contribuições
+
+<p align="center">
+  <img src="https://github.com/omacaxeira/omacaxeira/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+### 🌐 Conecte-se Comigo
+
+<p align="center">
+<a href="https://linkedin.com/in/SEU-USUARIO-AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:seu-email-aqui"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
