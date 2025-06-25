@@ -23,7 +23,7 @@ Não tem muito o que dizer, aqui é onde eu transformo café em código. Acredit
 </p>
 
 <div align="center">
-  *“A persistência realiza o impossível.”*
+  "*A persistência realiza o impossível.*"
 </div>
 
 ---
