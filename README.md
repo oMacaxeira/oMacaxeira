@@ -1,10 +1,8 @@
 ### 🚀 Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e conhecimentos. Atualmente estou focado em... **(Diga aqui no que você está a trabalhar ou a estudar)**.
+Não tem muito que dizer, aqui é onde eu transformo café em código. Acredito que a melhor interface é aquela que não se percebe.
 
-- 👯 Procuro colaborar em projetos open-source que... **(Complete a frase)**
-- 📫 Como me encontrar: **seu.email@exemplo.com**
-- ⚡ Curiosidade: Acredito que a melhor interface é aquela que não se percebe.
+- 📫 Como me encontrar: pedrolucas17473781@gmail.com
 
 ---
 
@@ -32,7 +30,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 
 ### 📊 Minha Atividade (WakaTime)
 
----
+--- *Ainda em desenvolvimento*
 
 ### 🔥 Estatísticas e "Snake" de Contribuições
 
@@ -51,7 +49,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 
 <p align="center">
 <a href="https://linkedin.com/in/SEU-USUARIO-AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:seu-email-aqui"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto: pedrolucas17473781@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 <p align="center">
